@@ -1,5 +1,5 @@
 from tkinter import *
-from Ball import *
+from ball import *
 import time
 
 window = Tk()
